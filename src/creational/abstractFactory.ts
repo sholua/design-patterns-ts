@@ -27,7 +27,7 @@ class I3 implements Car {
   }
 }
 
-const produce = bmwProducer('sport');
+const produce = bmwProducer("sport");
 
 const myCar = produce();
 
